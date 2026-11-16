@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
   - url: IdleLauncherSetup.exe
-    sha512: cyp2Ih+ZlHqUBsC35sIeZjVybii0lF/sEmNVdi1kTYDWmDpEzU9mPFjOUGyoKkOnixEVQ6NLWURJa4b7ooHXPw==
-    size: 81461676
+    sha512: MR58xqmpOIS2gL7WULl0JN//vy8ORuFa/cd4pJmM9XwBf+VpI1YgosjCs/xsR4YH/YlpR9xOYazHUjIZ+/nzhw==
+    size: 81461840
 path: IdleLauncherSetup.exe
-sha512: cyp2Ih+ZlHqUBsC35sIeZjVybii0lF/sEmNVdi1kTYDWmDpEzU9mPFjOUGyoKkOnixEVQ6NLWURJa4b7ooHXPw==
-releaseDate: '2026-11-13T18:45:54.955Z'
+sha512: MR58xqmpOIS2gL7WULl0JN//vy8ORuFa/cd4pJmM9XwBf+VpI1YgosjCs/xsR4YH/YlpR9xOYazHUjIZ+/nzhw==
+releaseDate: '2026-11-16T18:37:54.798Z'
